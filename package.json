@@ -1,0 +1,27 @@
+{
+  "name": "mean-user",
+  "version": "0.0.1",
+  "description": "MEAN user implementation",
+  "author": "Linnovate <mean@linnovate.net>",
+  "contributors": [{
+    "name": "Drew Fyock",
+    "mail": "drew@steelbisondev.com"
+  }, {
+    "name": "Yonatan Ellman",
+    "mail": "yonatan@linnovate.net"
+  }, {
+    "name": "Lior Kesos",
+    "mail": "lior@linnovate.net"
+  }],
+  "mean": "0.3.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linnovate/mean-user.git"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
