@@ -18,5 +18,7 @@ User.register(function(app, auth, database) {
     //We enable routing. By default the Package Object is passed to the routes
     User.routes(app, auth, database);
 
+    User.angularDependencies(['mean.user']);
+
     return User;
 });
